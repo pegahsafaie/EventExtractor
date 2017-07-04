@@ -1,0 +1,170 @@
+[
+  {
+    "sentence": "1 -RSB- were a series of four coordinated terrorist attacks by the Islamic terrorist group al-Qaeda on the United States on the morning of Tuesday , September 11 , 2001 .",
+    "verb": "were",
+    "subject": "1 -RSB-",
+    "predicate": "were",
+    "object": "a series of four coordinated terrorist attacks by the Islamic terrorist group al-Qaeda on the United States on the morning of Tuesday , September 11 , 2001",
+    "vContexts": "INTRA_SENT_ATTR_"
+  },
+  {
+    "sentence": "Carriers -LRB- United Airlines and American Airlines -RRB- -- all of which departed from airports in the northeastern United States bound for California -- were hijacked by 19 al-Qaeda terrorists .",
+    "verb": "were hijacked",
+    "subject": "Carriers",
+    "predicate": "were hijacked",
+    "object": "by 19 al-Qaeda terrorists",
+    "vContexts": "INTRA_SENT_ATTR_"
+  },
+  {
+    "sentence": "Two of the planes were crashed into the North and South towers , respectively , of the World Trade Center complex in New York City .",
+    "verb": "were crashed",
+    "subject": "Two of the planes",
+    "predicate": "were crashed",
+    "object": "",
+    "vContexts": "SPATIAL_UNKNOWN_SPATIAL_"
+  },
+  {
+    "sentence": "American Airlines Flight 11 were crashed into the North and South towers , respectively , of the World Trade Center complex in New York City .",
+    "verb": "were crashed",
+    "subject": "American Airlines Flight 11",
+    "predicate": "were crashed",
+    "object": "",
+    "vContexts": "SPATIAL_UNKNOWN_SPATIAL_"
+  },
+  {
+    "sentence": "United Airlines Flight 175 , were crashed into the North and South towers , respectively , of the World Trade Center complex in New York City .",
+    "verb": "crashed",
+    "subject": "Were",
+    "predicate": "crashed",
+    "object": "",
+    "vContexts": "SPATIAL_UNKNOWN_UNKNOWN_SPATIAL_"
+  },
+  {
+    "sentence": "Within an hour and 42 minutes , both 110-story towers collapsed , with the resulting fires causing partial or complete collapse of all other buildings in the World Trade Center complex , including the 47-story 7 World Trade Center tower , as well as significant damage to ten other large surrounding structures .",
+    "verb": "collapsed",
+    "subject": "Both 110-story towers",
+    "predicate": "collapsed",
+    "object": "",
+    "vContexts": "UNKNOWN_SPATIAL_UNKNOWN_"
+  },
+  {
+    "sentence": "A third plane , American Airlines Flight 77 , was crashed into the Pentagon -LRB- the headquarters of the United States Department of Defense -RRB- in Arlington County , Virginia .",
+    "verb": "was crashed",
+    "subject": "A third plane",
+    "predicate": "was crashed",
+    "object": "",
+    "vContexts": "SPATIAL_SPATIAL_"
+  },
+  {
+    "sentence": "The fourth plane , United Airlines Flight 93 , initially was steered toward Washington , D.C. .",
+    "verb": "was steered",
+    "subject": "The fourth plane",
+    "predicate": "was steered",
+    "object": "",
+    "vContexts": "SPATIAL_"
+  },
+  {
+    "sentence": "The fourth plane , United Airlines Flight 93 , initially crashed into a field in Stonycreek Township near Shanksville , Pennsylvania .",
+    "verb": "crashed",
+    "subject": "The fourth plane",
+    "predicate": "crashed",
+    "object": "into a field",
+    "vContexts": "SPATIAL_SPATIAL_"
+  },
+  {
+    "sentence": "It was the single deadliest incident for firefighters and law enforcement officers -LSB- 4 -RSB- in the history of the United States , with 343 and 72 killed respectively .",
+    "verb": "was",
+    "subject": "It",
+    "predicate": "was",
+    "object": "the single deadliest incident for firefighters and law enforcement officers -LSB- 4 -RSB- in the history of the United States",
+    "vContexts": "UNKNOWN_"
+  },
+  {
+    "sentence": "The United States responded to the attacks by launching the War on Terror and invading Afghanistan to depose the Taliban , which had harbored al-Qaeda .",
+    "verb": "responded",
+    "subject": "The United States",
+    "predicate": "responded",
+    "object": "to the attacks by launching the War on Terror and invading Afghanistan to depose the Taliban",
+    "vContexts": ""
+  },
+  {
+    "sentence": "-LSB- 1 -RSB- Al-Qaeda and bin Laden cited U.S. support of Israel as motives .",
+    "verb": "cited",
+    "subject": "-lsb- 1 -RSB- Al-Qaeda and bin Laden",
+    "predicate": "cited",
+    "object": "U.S. support of Israel as motives",
+    "vContexts": ""
+  },
+  {
+    "sentence": "-LSB- 1 -RSB- Al-Qaeda and bin Laden cited the presence of U.S. troops in Saudi Arabia as motives .",
+    "verb": "cited",
+    "subject": "-lsb- 1 -RSB- Al-Qaeda and bin Laden",
+    "predicate": "cited",
+    "object": "the presence of U.S. troops in Saudi Arabia as motives",
+    "vContexts": ""
+  },
+  {
+    "sentence": "-LSB- 1 -RSB- Al-Qaeda and bin Laden cited sanctions against Iraq as motives .",
+    "verb": "cited",
+    "subject": "-lsb- 1 -RSB- Al-Qaeda and bin Laden",
+    "predicate": "cited",
+    "object": "sanctions against Iraq as motives",
+    "vContexts": ""
+  },
+  {
+    "sentence": "The destruction of the World Trade Center and nearby infrastructure caused serious damage to the economy of Lower Manhattan .",
+    "verb": "caused",
+    "subject": "The destruction of the World Trade Center and nearby infrastructure",
+    "predicate": "caused",
+    "object": "serious damage to the economy of Lower Manhattan",
+    "vContexts": ""
+  },
+  {
+    "sentence": "The destruction of the World Trade Center and nearby infrastructure were resulting in the closing of the civilian airspace in the U.S. and Canada until September 13 .",
+    "verb": "were resulting",
+    "subject": "The destruction of the World Trade Center and nearby infrastructure",
+    "predicate": "were resulting",
+    "object": "in the closing of the civilian airspace until September 13",
+    "vContexts": "SPATIAL_"
+  },
+  {
+    "sentence": "Cleanup of the World Trade Center site was completed in May 2002 .",
+    "verb": "was completed",
+    "subject": "Cleanup of the World Trade Center site",
+    "predicate": "was completed",
+    "object": "",
+    "vContexts": "TEMPORAL_"
+  },
+  {
+    "sentence": "The Pentagon was repaired within a year .",
+    "verb": "was repaired",
+    "subject": "The Pentagon",
+    "predicate": "was repaired",
+    "object": "within a year",
+    "vContexts": ""
+  },
+  {
+    "sentence": "On November 18 , 2006 , construction of One World Trade Center began at the World Trade Center site .",
+    "verb": "began",
+    "subject": "Construction of One World Trade Center",
+    "predicate": "began",
+    "object": "",
+    "vContexts": "TEMPORAL_SPATIAL_"
+  },
+  {
+    "sentence": "-LSB- 5 -RSB- -LSB- 6 -RSB- Numerous memorials have been constructed , including the National September 11 Memorial & Museum in New York City , the Pentagon Memorial in Arlington County and the Flight 93 National Memorial in a field in Stonycreek Township near Shanksville , Pennsylvania .",
+    "verb": "have been constructed",
+    "subject": "-lsb- 5 -RSB- -LSB- 6 -RSB- Numerous memorials",
+    "predicate": "have been constructed",
+    "object": "",
+    "vContexts": "SPATIAL_"
+  },
+  {
+    "sentence": "-LSB- 5 -RSB- -LSB- 6 -RSB- Numerous memorials have been constructed , including the National September 11 Memorial & Museum in New York City , the Pentagon Memorial in Virginia and the Flight 93 National Memorial in a field in Stonycreek Township near Shanksville , Pennsylvania .",
+    "verb": "have been constructed",
+    "subject": "-lsb- 5 -RSB- -LSB- 6 -RSB- Numerous memorials",
+    "predicate": "have been constructed",
+    "object": "",
+    "vContexts": "SPATIAL_"
+  }
+]
