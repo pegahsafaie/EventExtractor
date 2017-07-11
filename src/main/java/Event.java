@@ -9,8 +9,7 @@ public class Event {
     private String subject;
     private String predicate;
     private String object;
-    private String vContexts;
-
+    private Context[] vContexts;
 
 //    private String verbNetId;
 //    private String proBankId;
@@ -58,11 +57,11 @@ public class Event {
         this.object = object;
     }
 
-    public String getvContexts() {
+    public Context[] getvContexts() {
         return vContexts;
     }
 
-    public void setvContexts(String vContexts) {
+    public void setvContexts(Context[] vContexts) {
         this.vContexts = vContexts;
     }
 
